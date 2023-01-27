@@ -1,0 +1,17 @@
+{
+    "emittedTransaction": {
+        "nonce": 338,
+        "value": "0",
+        "receiver": "erd1qqqqqqqqqqqqqpgqtmk8qcqq6qr7luuxcweqdlafadzw3xg5xszq65wj0e",
+        "sender": "erd1a6p39rlsn2lm20adqe5tmzy543luwqx4dywzflr2dmtwdf75xszqdw9454",
+        "gasPrice": 1000000000,
+        "gasLimit": 5000000,
+        "data": "Q2xhaW0=",
+        "chainID": "T",
+        "version": 1,
+        "signature": "73035d71dabcad507944dcfa0f0b31e97b3826efe727898ffa741b7d6fab9e76e177a112eeab4a0df5c0b4cf762a621f112ff592eba21e180e4d4f3d2a99220f"
+    },
+    "emittedTransactionData": "Claim",
+    "emittedTransactionHash": "0d5a7155a5ba98b76f524f52ac330904199ae7b473b6a5c852f65e0007fa3006",
+    "contractAddress": "erd1qqqqqqqqqqqqqpgqtmk8qcqq6qr7luuxcweqdlafadzw3xg5xszq65wj0e"
+}

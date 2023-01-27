@@ -1,0 +1,10 @@
+/home/edi/Desktop/learning/swap/target/debug/deps/libelrond_codec_derive-7c171f3be634dc49.so: /home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/lib.rs /home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/nested_de_derive.rs /home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/nested_en_derive.rs /home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/top_de_derive.rs /home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/top_en_derive.rs /home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/util.rs
+
+/home/edi/Desktop/learning/swap/target/debug/deps/elrond_codec_derive-7c171f3be634dc49.d: /home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/lib.rs /home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/nested_de_derive.rs /home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/nested_en_derive.rs /home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/top_de_derive.rs /home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/top_en_derive.rs /home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/util.rs
+
+/home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/lib.rs:
+/home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/nested_de_derive.rs:
+/home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/nested_en_derive.rs:
+/home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/top_de_derive.rs:
+/home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/top_en_derive.rs:
+/home/edi/.cargo/registry/src/github.com-1ecc6299db9ec823/elrond-codec-derive-0.13.0/src/util.rs:
